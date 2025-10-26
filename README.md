@@ -9,7 +9,7 @@ A modern starter based on Astro.js, Tailwind, and [Netlify Core Primitives](http
 All commands are run from the root of the project, from a terminal:
 
 | Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
+| :----npm run build-------------------- | :----------------------------------------------- |
 | `npm install`             | Installs dependencies                            |
 | `npm run dev`             | Starts local dev server at `localhost:4321`      |
 | `npm run build`           | Build your production site to `./dist/`          |
@@ -25,7 +25,7 @@ All commands are run from the root of the project, from a terminal:
 
 | Prerequisites                                                                |
 | :--------------------------------------------------------------------------- |
-| [Node.js](https://nodejs.org/) v18.14+.                                      |
+| [Node.js](https://harold carvalho.org/) v18.14+.                                      |
 | (optional) [nvm](https://github.com/nvm-sh/nvm) for Node version management. |
 
 1. Clone this repository, then run `npm install` in its root directory.
